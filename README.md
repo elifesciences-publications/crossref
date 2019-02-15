@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Himmelstein et al., "Research: Sci-Hub provides access to nearly all scholarly literature". eLife, 2018. http://dx.doi.org/10.7554/32822
+
+
 # Store and process the Crossref Database
 
 This repository downloads Crossref metadata using the [Crossref API](https://github.com/CrossRef/rest-api-doc/blob/master/rest_api.md).
